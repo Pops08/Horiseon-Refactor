@@ -97,13 +97,18 @@ h3 {
 }
 
 /* Added 75% width to break the title */
-.search-engine-optimization h2 {
+.mainsections h2 {
     width: 75%
 } 
 
 /*Added 50% width to break the title */
-.online-reputation-management h2 {
+#ORM-header {
     width: 50%;
+}
+
+#ORM-text {
+    margin-left: 0px;
+    width: 77%;
 }
 
 .float-left {
