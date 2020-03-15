@@ -22,4 +22,4 @@ Description:
 ======
 For the Horiseon assignment, I've refactored the code to meet the client's set of standards. HTML, CSS, and Github were used to address accessibility issues, consolidation, styling, and deployment of code. The refactor of the CSS code includes more efficient consolidation of selectors/properties, the usage semantic structure for the HTML elements, and comments to describe sections of the page.
 
-![Before Image](/assets/images/before-image.png)
+![Before Image](/assets/images/Before-Image.png)
