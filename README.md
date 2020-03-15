@@ -10,6 +10,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 Acceptance Criteria:
+======
 
 GIVEN a webpage meets accessibility standards
 
@@ -34,6 +35,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Your Task:
+======
 
 This week is an odd-numbered week, so your Challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: accessibility. 
 
